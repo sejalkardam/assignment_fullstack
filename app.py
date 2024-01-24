@@ -91,7 +91,7 @@ def user_rank():
         return jsonify({'error': 'User not found'}), 404
 
 if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+    app.run()
 
 
 
