@@ -1,4 +1,5 @@
 Flask
 mysql
+mysql-connector
 Gunicorn
 MySQL
